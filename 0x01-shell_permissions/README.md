@@ -10,3 +10,4 @@ Script 6- Write a script that adds execute permission to the owner and the group
 Script 7 Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 Script 8-Write a script that sets the permission to the file hello as follows owner and group no permission other all permission
 Script 9 -Write a script that sets the mode of the file hello to this check task for pattern
+Script 10- Write a script that sets the mode of the file hello the same as olleh’s mode
