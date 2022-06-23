@@ -9,3 +9,4 @@ Script 6- Create directory in tmp directory
 Script 7- Move betty from tmp directory into tmp/my_first_directory
 Script 8- Delete file betty in /tmp/my_first_commit
 Script 9 -Delete my_fisrt_directory in /tmp directory
+Script 10 -Change working directory to previous one
