@@ -7,3 +7,4 @@ Script 3-Create a script that counts the number of directories in the PATH
 Script 4-Create a script that lists environment variables.
 Script 5-Create a script that lists all local variables and environment variables, and functions.
 Script 6-Create a script that creates a new local variable: Name BEST, Value: School
+Script 7-Create a script that creates a new global variable: Name BEST, Value School
